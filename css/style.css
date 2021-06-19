@@ -1,0 +1,54 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url(../img/lol/lol.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+
+.top-nav-collapse {
+  background-color: #080808;
+}
+
+
+
+
+.tupian{
+    filter :brightness(200%);
+    width: 370px;
+    height: 200px;
+}
+.ziti{
+    padding: 20px;
+    font-weight: bold;
+    color: rgb(177, 176, 174);
+}
+body{
+    background-color: rgb(8, 8, 8);
+}
+
+
+.description_1-6k {
+  
+    font-size: 14px;
+    color: #c4b998;
+    max-width: 500px;
+    text-align: justify;
+}
+
+.zitidaxiao{
+    font-size: 25px;
+    color: rgb(214, 212, 208);
+    line-height: 33px;
+}
+
+
+
+
